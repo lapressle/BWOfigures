@@ -1,2 +1,2 @@
-# BWOfigures
-Python scripts for generating figures used in my article on the floating zone growth of single crystal Bi2WO6.
+# Tunable W5+ absorbance in laser floating zone grown bismuth tungstate
+Located here are the scripts I used for generating figures in my paper. I hope these serve to help anyone in their data analysis presentation.
